@@ -1,4 +1,4 @@
-# tutorial done during an internship at Noledge
+# Tutorial done during an internship at Noledge
 
 # AngularTourOfHeroes
 
